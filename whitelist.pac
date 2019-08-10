@@ -3067,6 +3067,7 @@ var white_domains = {
 "coopb2b":1,
 "cosco":1,
 "cozyee":1,
+"cpcwe":1,
 "cp2y":1,
 "cpdyj":1,
 "cpooo":1,
@@ -3615,6 +3616,7 @@ var white_domains = {
 "epzhaopin":1,
 "eq-hl":1,
 "eqyn":1,
+"eqh5":1,
 "erdsrsrc":1,
 "erongtu":1,
 "ersoso":1,
@@ -4490,6 +4492,7 @@ var white_domains = {
 "huawei":1,
 "huaxi100":1,
 "huaxia":1,
+"huaxiadnb":1,
 "huaxirc":1,
 "huayin114":1,
 "huayin520":1,
@@ -8717,6 +8720,7 @@ var white_domains = {
 },"mobi":{
 "i1515":1
 },"net":{
+"ipip":1,
 "coding":1,
 "blogjava":1,
 "ascii2d":1,
