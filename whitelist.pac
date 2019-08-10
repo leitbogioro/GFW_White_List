@@ -8535,6 +8535,7 @@ var white_domains = {
 "zbird":1,
 "zbjimg":1,
 "zblogcn":1,
+"zbmate.com":1,
 "zc85":1,
 "zcheer":1,
 "zcjob88":1,
