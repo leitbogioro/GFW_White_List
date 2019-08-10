@@ -126,6 +126,7 @@ var white_domains = {
 "globalbuy":1,
 "gmtv":1,
 "gqw":1,
+"ggacn":1,
 "haitou":1,
 "hao315":1,
 "hb114":1,
@@ -705,6 +706,7 @@ var white_domains = {
 "0663job":1,
 "06abc":1,
 "07073":1,
+"073img":1,
 "07073sy":1,
 "0710go":1,
 "0712fang":1,
@@ -1566,6 +1568,7 @@ var white_domains = {
 "59kankan":1,
 "5ajob":1,
 "5d6d":1,
+"5dcar":1,
 "5est":1,
 "5etv":1,
 "5fen":1,
@@ -3122,6 +3125,7 @@ var white_domains = {
 "crec4":1,
 "crecg":1,
 "cric":1,
+"cr-nielsen":1,
 "crm1001":1,
 "crmgz":1,
 "crosswaycn":1,
@@ -6459,6 +6463,7 @@ var white_domains = {
 "rrimg":1,
 "rrs":1,
 "rsqzs":1,
+"rtbasia":1,
 "ruan8":1,
 "ruanmei":1,
 "rubberhr":1,
@@ -6999,6 +7004,8 @@ var white_domains = {
 "t139":1,
 "t262":1,
 "t55":1,
+"to8to":1,
+"t8tcdn":1,
 "t960":1,
 "tahjlg":1,
 "tahongyuan":1,
@@ -7310,6 +7317,7 @@ var white_domains = {
 "ulinix":1,
 "ulunix":1,
 "umiwi":1,
+"umeng":1,
 "un188":1,
 "unibao":1,
 "uninf":1,
@@ -8302,6 +8310,7 @@ var white_domains = {
 "zcwz":1,
 "zdface":1,
 "zdmimg":1,
+"zdimg":1,
 "zf875":1,
 "zf9918":1,
 "zg0543":1,
@@ -8931,6 +8940,7 @@ var white_domains = {
 "cdgtw":1,
 "cdjjedu":1,
 "cdn86":1,
+"cdnmaster":1,
 "cdrx":1,
 "cdyou":1,
 "ce02":1,
@@ -9989,6 +9999,7 @@ var white_domains = {
 },"tm":{
 "stone":1
 },"tv":{
+"aimeike":1,
 "fun":1,
 "hy233":1,
 "zimuzu":1,
@@ -10038,7 +10049,8 @@ var white_domains = {
 "wasu":1,
 "weihai":1,
 "zhenping":1,
-"zohi":1
+"zohi":1,
+"zhanqi":1
 },"tw":{
 "hexun.com":1,
 "taiwandao":1
