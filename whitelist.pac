@@ -8056,6 +8056,8 @@ var white_domains = {
 "yidaba":1,
 "yieldmanager":1,
 "yifucj":1,
+"yiguo":1,
+"yiguoimg":1,
 "yihaodian":1,
 "yihaodianimg":1,
 "yijiaqin":1,
