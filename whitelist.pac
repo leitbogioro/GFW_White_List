@@ -838,6 +838,8 @@ var white_domains = {
 "100zhuang":1,
 "101":1,
 "1010jz":1,
+"10101111":1,
+"10101111cdn":1,
 "10155":1,
 "101jiajiao":1,
 "1024sj":1,
@@ -8161,6 +8163,7 @@ var white_domains = {
 "yokacdn":1,
 "yolbax":1,
 "yongchengren":1,
+"yongche":1,
 "yongjiangrc":1,
 "yongsao":1,
 "yongshengmold":1,
@@ -8751,6 +8754,8 @@ var white_domains = {
 "yuksel":1
 },"mobi":{
 "i1515":1
+},"name":{
+"yongche":1
 },"net":{
 "ipip":1,
 "coding":1,
