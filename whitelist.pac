@@ -2129,6 +2129,7 @@ var white_domains = {
 "anxjm":1,
 "any123":1,
 "any2000":1,
+"anyang100":1,
 "anzhi":1,
 "anzow":1,
 "aodianyun":1,
