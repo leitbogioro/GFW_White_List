@@ -6959,6 +6959,7 @@ var white_domains = {
 "shiguangkey":1,
 "shihuahr":1,
 "shijiemil":1,
+"shijitongjian":1,
 "shilehui":1,
 "shilijiuxiang":1,
 "shiliunet":1,
