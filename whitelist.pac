@@ -2038,6 +2038,7 @@ var white_domains = {
 "ai96":1,
 "aibang":1,
 "aibo123":1,
+"aicheren":1,
 "aicai":1,
 "aichao521":1,
 "aicunfu":1,
@@ -2634,6 +2635,7 @@ var white_domains = {
 "cdedu":1,
 "cdjsjx":1,
 "cdnet110":1,
+"cdn-chuang":1,
 "cdqss":1,
 "cdrfjc":1,
 "cdrtvu":1,
@@ -3722,6 +3724,7 @@ var white_domains = {
 "elong":1,
 "elongstatic":1,
 "els001":1,
+"emao":1,
 "emarbox":1,
 "eminiye":1,
 "ems517":1,
@@ -4067,6 +4070,7 @@ var white_domains = {
 "gdwca":1,
 "gdwest":1,
 "gdzj8":1,
+"geeknev":1,
 "geely":1,
 "geihui":1,
 "gemdale":1,
@@ -4654,6 +4658,7 @@ var white_domains = {
 "huanjinrong":1,
 "huanq":1,
 "huanqiu":1,
+"huanqiuauto":1,
 "huantu":1,
 "huapinwang":1,
 "huash":1,
@@ -7582,6 +7587,7 @@ var white_domains = {
 "ttplayer":1,
 "ttpod":1,
 "ttteee":1,
+"ttufo":1,
 "ttyl5":1,
 "ttys5":1,
 "ttzcw":1,
@@ -9558,6 +9564,7 @@ var white_domains = {
 "edudown":1,
 "edudt":1,
 "eeeqi":1,
+"emao":1,
 "emlog":1,
 "emushroom":1,
 "ershou":1,
@@ -10471,6 +10478,8 @@ var white_domains = {
 "zycq":1,
 "zyxuan":1,
 "zzbm":1
+},"pro":{
+"chuang":1
 },"sg":{
 "iedu":1
 },"sh":{
