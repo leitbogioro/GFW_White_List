@@ -1166,6 +1166,7 @@ var white_domains = {
 "2shequ":1,
 "2shoujie":1,
 "2smtc":1,
+"300hu":1,
 "300p":1,
 "301688":1,
 "30556":1,
