@@ -4690,6 +4690,7 @@ var white_domains = {
 "huibojob":1,
 "huiche":1,
 "huiche100":1,
+"huifudashi":1,
 "huilaimai":1,
 "huilan":1,
 "huimaiche":1,
