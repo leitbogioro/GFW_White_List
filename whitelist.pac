@@ -7888,6 +7888,7 @@ var white_domains = {
 "weikeimg":1,
 "weilanhaian":1,
 "weilanliuxue":1,
+"weilandiy":1,
 "weimob":1,
 "weiningnews":1,
 "weinisi":1,
