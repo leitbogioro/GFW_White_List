@@ -1966,6 +1966,7 @@ var white_domains = {
 "9ku":1,
 "9laodi":1,
 "9qc":1,
+"9show":1,
 "9sky":1,
 "9to":1,
 "9u":1,
