@@ -1153,6 +1153,7 @@ var white_domains = {
 "26abc":1,
 "28":1,
 "2881":1,
+"28beiduo":1,
 "28hotel":1,
 "28sn":1,
 "28yj":1,
