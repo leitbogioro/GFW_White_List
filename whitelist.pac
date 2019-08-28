@@ -29,6 +29,7 @@ var white_domains = {
 },"top":{
 "1993s":1,
 "kdy666":1,
+"hanhpng":1,
 "ttmeiju":1,
 "86game":1,
 "z211":1,
