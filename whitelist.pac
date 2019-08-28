@@ -5972,6 +5972,7 @@ var white_domains = {
 "mipang":1,
 "mirautomation":1,
 "misranim":1,
+"miss-no1":1,
 "missyuan":1,
 "miui":1,
 "miwifi":1,
