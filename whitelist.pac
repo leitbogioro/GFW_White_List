@@ -14,6 +14,7 @@ var white_domains = {
 "sudamod":1,
 },"wang":{
 "dilidili":1,
+"na":1
 },"bz":{
 "icoc":1
 },"ms":{
