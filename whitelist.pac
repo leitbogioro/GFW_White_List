@@ -11,14 +11,13 @@ var white_domains = {
 },"one":{
 "zym":1
 },"download":{
-"sudamod":1
+"sudamod":1,
 },"wang":{
 "dilidili":1,
-"na":1
 },"bz":{
 "icoc":1
 },"ms":{
-"sm":1
+"sm":1,
 },"cx":{
 "sinaimg":1,
 },"io":{
@@ -26,7 +25,7 @@ var white_domains = {
 "quanben":1,
 "loli":1,
 "xitu":1,
-"jianshu":1
+"jianshu":1,
 },"top":{
 "1993s":1,
 "kdy666":1,
@@ -6313,7 +6312,6 @@ var white_domains = {
 "optaim":1,
 "oppein":1,
 "oppo":1,
-"opp2":1,
 "or58":1,
 "oranpage":1,
 "oray":1,
@@ -9206,8 +9204,7 @@ var white_domains = {
 "shijue":1,
 "tvb":1,
 "wmpic":1,
-"yuksel":1,
-"meipian":1
+"yuksel":1
 },"mobi":{
 "i1515":1
 },"name":{
