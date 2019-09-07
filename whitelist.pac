@@ -9207,7 +9207,7 @@ var white_domains = {
 "tvb":1,
 "wmpic":1,
 "yuksel":1,
-"meipian"
+"meipian":1
 },"mobi":{
 "i1515":1
 },"name":{
