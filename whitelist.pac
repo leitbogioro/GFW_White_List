@@ -11,13 +11,14 @@ var white_domains = {
 },"one":{
 "zym":1
 },"download":{
-"sudamod":1,
+"sudamod":1
 },"wang":{
 "dilidili":1,
+"na":1
 },"bz":{
 "icoc":1
 },"ms":{
-"sm":1,
+"sm":1
 },"cx":{
 "sinaimg":1,
 },"io":{
@@ -25,7 +26,7 @@ var white_domains = {
 "quanben":1,
 "loli":1,
 "xitu":1,
-"jianshu":1,
+"jianshu":1
 },"top":{
 "1993s":1,
 "kdy666":1,
