@@ -6930,6 +6930,7 @@ var white_domains = {
 "sha-steel":1,
 "shache":1,
 "shafa":1,
+"shanbay":1,
 "shanchengrc":1,
 "shandalu":1,
 "shandongbeihai":1,
