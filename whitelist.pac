@@ -2323,6 +2323,7 @@ var white_domains = {
 "batterydir":1,
 "batterykey":1,
 "baxue":1,
+"baydn":1,
 "bayuche":1,
 "bazhibo":1,
 "bbbaaa":1,
