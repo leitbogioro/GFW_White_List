@@ -1528,6 +1528,7 @@ var white_domains = {
 "52jscn":1,
 "52njl":1,
 "52pk":1,
+"52player":1,
 "52solution":1,
 "52ykjob":1,
 "52yuanm":1,
