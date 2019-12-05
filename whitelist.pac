@@ -4,7 +4,13 @@ var direct = "DIRECT;";
 var ip_proxy = "DIRECT;";
 
 var white_domains = {
-"ai":{
+"asia":{
+"moecloud":1
+},"lol":{
+"bilibili":1
+},"app":{
+"wemp":1
+},"ai":{
 "deepvision":1
 },"wiki":{
 "huiji":1
@@ -1884,6 +1890,7 @@ var white_domains = {
 "91town":1,
 "91ud":1,
 "91wan":1,
+"91wii":1,
 "91yao":1,
 "92gzc":1,
 "92wudao":1,
@@ -3519,6 +3526,7 @@ var white_domains = {
 "docin":1,
 "dodonew":1,
 "dog126":1,
+"dogyun":1,
 "doido":1,
 "dolcn":1,
 "donews":1,
@@ -4290,6 +4298,7 @@ var white_domains = {
 "gzrencai":1,
 "gzrisingsteel":1,
 "gzsedu":1,
+"gzspeedtest":1,
 "gzstv":1,
 "gzszk":1,
 "gztcdj":1,
@@ -4303,6 +4312,7 @@ var white_domains = {
 "habctv":1,
 "hackhome":1,
 "hackp":1,
+"hadsky":1,
 "hahaertong":1,
 "haibao":1,
 "haichaninfo":1,
@@ -4927,6 +4937,7 @@ var white_domains = {
 "iqilu":1,
 "iqingren":1,
 "iqiyi":1,
+"iqiyi-yongjiu":1,
 "iraoping":1,
 "irrichina":1,
 "irs01":1,
@@ -6310,6 +6321,7 @@ var white_domains = {
 "oneplus":1,
 "onlylady":1,
 "oodii":1,
+"ooklaserver":1,
 "oooggg":1,
 "ooopic":1,
 "operachina":1,
@@ -6441,6 +6453,7 @@ var white_domains = {
 "pnzpw":1,
 "pod100":1,
 "podinns":1,
+"pokoudai":1,
 "pomoho":1,
 "poobuy":1,
 "pop-fashion":1,
@@ -8340,6 +8353,7 @@ var white_domains = {
 "xx007":1,
 "xx351":1,
 "xxdm":1,
+"xxgame":1,
 "xxhls":1,
 "xxluo":1,
 "xxplzx":1,
