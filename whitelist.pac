@@ -27,6 +27,8 @@ var white_domains = {
 "sm":1,
 },"cx":{
 "sinaimg":1,
+},"lu":{
+"tool":1,
 },"io":{
 "c0m":1,
 "loli":1,
