@@ -1,4 +1,4 @@
-var wall_proxy = "SOCKS5 127.0.0.1:1080;";
+var wall_proxy = "SOCKS5 127.0.0.1:1080; SOCKS 127.0.0.1:1080;";
 var nowall_proxy = "DIRECT;";
 var direct = "DIRECT;";
 var ip_proxy = "DIRECT;";
@@ -10677,12 +10677,10 @@ function isInDomains(domain_dict, host) {
 	var pos1 = host.lastIndexOf('.');
 
 	suffix = host.substring(pos1 + 1);
-	if (suffix=="cn"||suffix=="nd"||suffix=="localhost"||
-	    suffix=="local"||suffix=="dev"||suffix=="test"||
-	    suffix=="onion"||suffix=="exit"||suffix=="bitnet"||
-	    suffix=="uucp"||suffix=="example"||suffix=="invalid") {
+	if (suffix == "cn") {
 		return true;
 	}
+
 	var domains = domain_dict[suffix];
 	if ( domains === undefined ) {
 		return false;
