@@ -21,18 +21,15 @@ var white_domains = {
 },"one":{
 "zym":1
 },"download":{
-"sudamod":1,
-},"wang":{
-"dilidili":1,
-"na":1
+"sudamod":1
 },"bz":{
 "icoc":1
 },"ms":{
-"sm":1,
+"sm":1
 },"cx":{
-"sinaimg":1,
+"sinaimg":1
 },"lu":{
-"tool":1,
+"tool":1
 },"io":{
 "c0m":1,
 "loli":1,
@@ -42,7 +39,7 @@ var white_domains = {
 "terminus":1,
 "toutiao":1,
 "xitu":1,
-"jianshu":1,
+"jianshu":1
 },"top":{
 "1993s":1,
 "kdy666":1,
@@ -51,7 +48,8 @@ var white_domains = {
 "86game":1,
 "z211":1,
 "wjx":1,
-"wxapp":1
+"wxapp":1,
+"zhangshuang":1
 },"am":{
 "71":1,
 "126":1,
@@ -82,14 +80,6 @@ var white_domains = {
 "yuanyi":1,
 "zhaoming":1
 },"cc":{
-"2345":1,
-"dysfz":1,
-"jianbihua":1,
-"xcmh":1,
-"mtkan":1,
-"dmeo":1,
-"picb":1,
-"ttmj":1,
 "0316":1,
 "0738":1,
 "163k":1,
@@ -97,6 +87,7 @@ var white_domains = {
 "21cp":1,
 "2che":1,
 "2ic":1,
+"2345":1,
 "3456":1,
 "365bh":1,
 "509":1,
@@ -134,9 +125,11 @@ var white_domains = {
 "d17":1,
 "denglu":1,
 "dker":1,
+"dmeo":1,
 "donglingying":1,
 "dqccc":1,
 "dyj":1,
+"dysfz":1,
 "ejiaju":1,
 "en":1,
 "eqz":1,
@@ -165,6 +158,7 @@ var white_domains = {
 "huxi":1,
 "hyu":1,
 "icoat":1,
+"jianbihua":1,
 "jiangxia":1,
 "jinnong":1,
 "jinxian":1,
@@ -186,9 +180,11 @@ var white_domains = {
 "mlinks":1,
 "modao":1,
 "moko":1,
+"mtkan":1,
 "mzsky":1,
 "n21":1,
 "nandagang":1,
+"picb":1,
 "pingyin":1,
 "pinjie":1,
 "pp":1,
@@ -215,10 +211,12 @@ var white_domains = {
 "starbaby":1,
 "suzhou":1,
 "suzo":1,
+"taskcn":1,
 "tcnews":1,
 "tcxw":1,
 "teambuy":1,
 "tkw":1,
+"ttmj":1,
 "tuku":1,
 "tyn":1,
 "ujian":1,
@@ -226,12 +224,15 @@ var white_domains = {
 "uu":1,
 "uyan":1,
 "vfe":1,
+"w7":1,
+"we7":1,
 "wandu":1,
 "webportal":1,
 "weishan":1,
 "wuqing":1,
 "wutongxiang":1,
 "wzcn":1,
+"xcmh":1,
 "xgz":1,
 "xialingying":1,
 "xidian":1,
@@ -720,6 +721,7 @@ var white_domains = {
 "0575360":1,
 "0575bbs":1,
 "0575life":1,
+"0575yun":1,
 "057650":1,
 "0577cnw":1,
 "0577hr":1,
@@ -845,6 +847,7 @@ var white_domains = {
 "100cyrc":1,
 "100dnrc":1,
 "100dyrc":1,
+"100offer":1,
 "100gcrc":1,
 "100gxrc":1,
 "100hcrc":1,
@@ -1087,6 +1090,7 @@ var white_domains = {
 "1techan":1,
 "1textile":1,
 "1ting":1,
+"1tu":1,
 "1v1offcn":1,
 "1wandian":1,
 "1y2y":1,
@@ -1351,6 +1355,7 @@ var white_domains = {
 "3dmgame":1,
 "3dwwwgame":1,
 "3ghuashang":1,
+"3h3":1,
 "3kfw":1,
 "3kk":1,
 "3kw":1,
@@ -1548,6 +1553,7 @@ var white_domains = {
 "52fuqing":1,
 "52guixi":1,
 "52hardware":1,
+"52hpl":1,
 "52hxw":1,
 "52jscn":1,
 "52njl":1,
@@ -1902,6 +1908,7 @@ var white_domains = {
 "91jmw":1,
 "91job":1,
 "91jsj":1,
+"91kyd":1,
 "91open":1,
 "91px":1,
 "91rb":1,
@@ -1918,6 +1925,7 @@ var white_domains = {
 "934dsw":1,
 "9355":1,
 "9377":1,
+"93jiang":1,
 "93pk":1,
 "93tyy":1,
 "94176":1,
@@ -2386,6 +2394,7 @@ var white_domains = {
 "beijingbaomu":1,
 "beijinghuashen":1,
 "beijingrc":1,
+"beijingtopline":1,
 "beimeihongfeng":1,
 "beisen":1,
 "beitaichufang":1,
@@ -2609,6 +2618,7 @@ var white_domains = {
 "cang":1,
 "cangnan5":1,
 "cankaoxiaoxi":1,
+"cantontower":1,
 "canyin":1,
 "canyin88":1,
 "canyin168":1,
@@ -2626,6 +2636,7 @@ var white_domains = {
 "cat898":1,
 "catwaji":1,
 "cb12580":1,
+"cbdio":1,
 "cbe21":1,
 "cbigame":1,
 "cbinews":1,
@@ -2793,6 +2804,7 @@ var white_domains = {
 "cheyun":1,
 "chgcw":1,
 "chhkjob":1,
+"chiefmore":1,
 "china":1,
 "china-3":1,
 "china-315":1,
@@ -2981,6 +2993,7 @@ var white_domains = {
 "chuangkit":1,
 "chuangxinji":1,
 "chuangye":1,
+"chuangyejia":1,
 "chuangyemeng":1,
 "chuanke":1,
 "chuanmeicn":1,
@@ -3022,7 +3035,9 @@ var white_domains = {
 "cljmmm123":1,
 "clotheshr":1,
 "clothr":1,
+"clouderwork":1,
 "cloudifeng":1,
+"cloudtrans":1,
 "clssn":1,
 "cmbchina":1,
 "cmejob":1,
@@ -3209,9 +3224,11 @@ var white_domains = {
 "cofeed":1,
 "cofool":1,
 "cogonline":1,
+"colabug":1,
 "comicyu":1,
 "compete":1,
 "comsenz":1,
+"conbei":1,
 "conshow":1,
 "coo8":1,
 "coodir":1,
@@ -3581,6 +3598,7 @@ var white_domains = {
 "douluodalu123":1,
 "douxie":1,
 "dowater":1,
+"downcc":1,
 "downhot":1,
 "downxia":1,
 "downyi":1,
@@ -3611,6 +3629,7 @@ var white_domains = {
 "duba":1,
 "duitang":1,
 "dukuai":1,
+"duliday":1,
 "duojiaochong":1,
 "duokan":1,
 "duomai":1,
@@ -3624,6 +3643,7 @@ var white_domains = {
 "duoyewu":1,
 "duoyi":1,
 "duoshan":1,
+"duozhi":1,
 "dushicn":1,
 "dushifang":1,
 "duwenzhang":1,
@@ -3824,6 +3844,7 @@ var white_domains = {
 "etao":1,
 "etest8":1,
 "ethainan":1,
+"ethercap":1,
 "etiantian":1,
 "etlong":1,
 "etoubao":1,
@@ -3935,6 +3956,7 @@ var white_domains = {
 "feiniaokc":1,
 "feipin":1,
 "feiyukuaichuan":1,
+"fenbi":1,
 "fenfen":1,
 "feng":1,
 "fengbao":1,
@@ -3995,6 +4017,7 @@ var white_domains = {
 "flyxg":1,
 "fnkq":1,
 "fnrcw":1,
+"fob5":1,
 "fobshanghai":1,
 "focuschina":1,
 "fodizi":1,
@@ -4045,6 +4068,7 @@ var white_domains = {
 "furnituremedia":1,
 "fututa":1,
 "fuwuce":1,
+"fuyaogroup":1,
 "fuyoubank":1,
 "fwzjia":1,
 "fx168":1,
@@ -4357,6 +4381,7 @@ var white_domains = {
 "haining":1,
 "hanbinwang":1,
 "hancheng":1,
+"handongkeji":1,
 "handu":1,
 "hangye8":1,
 "hanweb":1,
@@ -4386,6 +4411,7 @@ var white_domains = {
 "haorc":1,
 "haote":1,
 "haotijin":1,
+"haotoutiao":1,
 "haotui":1,
 "haowangpu":1,
 "haowj":1,
@@ -4461,6 +4487,7 @@ var white_domains = {
 "hebtv":1,
 "hefeiat":1,
 "hehu":1,
+"heibandaohang":1,
 "heiguang":1,
 "heima8":1,
 "hejun":1,
@@ -4531,6 +4558,7 @@ var white_domains = {
 "hisupplier":1,
 "hitao":1,
 "hiyd":1,
+"hjbwg":1,
 "hjenglish":1,
 "hjmarathon":1,
 "hk515":1,
@@ -4751,6 +4779,7 @@ var white_domains = {
 "huilaimai":1,
 "huilan":1,
 "huimaiche":1,
+"huimin111":1,
 "huishangbao":1,
 "huishi365":1,
 "huishoushang":1,
@@ -4773,7 +4802,6 @@ var white_domains = {
 "hunqingren":1,
 "hunt007":1,
 "hunuo":1,
-"huobi":1,
 "huoche":1,
 "huochepiao":1,
 "huochepu":1,
@@ -4955,6 +4983,7 @@ var white_domains = {
 "investjilin":1,
 "invitemedia":1,
 "ioeoo":1,
+"iol8":1,
 "iooeoo":1,
 "ioomoo":1,
 "iooqoo":1,
@@ -4993,6 +5022,7 @@ var white_domains = {
 "ithome":1,
 "itjuzi":1,
 "itmop":1,
+"itoone":1,
 "itoptrip":1,
 "itravelqq":1,
 "its114":1,
@@ -5073,6 +5103,8 @@ var white_domains = {
 "jfcdns":1,
 "jfdaily":1,
 "jfgphzs":1,
+"jfh":1,
+"jfz":1,
 "jfinfo":1,
 "jgaoxiao":1,
 "jgcx56":1,
@@ -5123,6 +5155,7 @@ var white_domains = {
 "jianso":1,
 "jianzhi8":1,
 "jianzhiabc":1,
+"jianzhimao":1,
 "jiaomai":1,
 "jiaoman":1,
 "jiaotanqihuo":1,
@@ -5158,6 +5191,7 @@ var white_domains = {
 "jinbifun":1,
 "jinbuphoto":1,
 "jincin":1,
+"jinfuzi":1,
 "jinfr":1,
 "jinfuzi":1,
 "jingchurc":1,
@@ -5183,6 +5217,7 @@ var white_domains = {
 "jinmenrc":1,
 "jinpu":1,
 "jinquktv":1,
+"jinse":1,
 "jinshangrc":1,
 "jinti":1,
 "jinxiang114":1,
@@ -5491,6 +5526,7 @@ var white_domains = {
 "kejiqi":1,
 "kejixun":1,
 "kekenet":1,
+"keman":1,
 "kenfor":1,
 "keniu":1,
 "keqii":1,
@@ -5499,6 +5535,7 @@ var white_domains = {
 "keyunzhan":1,
 "kfsfu":1,
 "kfw001":1,
+"kiinii":1,
 "kimiss":1,
 "kingdee":1,
 "kingsoft":1,
@@ -5553,6 +5590,7 @@ var white_domains = {
 "kuailexue":1,
 "kuailezu":1,
 "kuailiyu":1,
+"kuaiyiwang":1,
 "kuaiyoujia":1,
 "kuakao":1,
 "kuche":1,
@@ -5560,6 +5598,7 @@ var white_domains = {
 "kugou":1,
 "kuhou":1,
 "kujiale":1,
+"kuke":1,
 "kukuplay":1,
 "kunlun":1,
 "kunlunar":1,
@@ -5663,6 +5702,7 @@ var white_domains = {
 "lekan":1,
 "lengxiaohua":1,
 "lenovo":1,
+"lenovomm":1,
 "lenovoqm":1,
 "leqiyou":1,
 "letao":1,
@@ -5686,6 +5726,7 @@ var white_domains = {
 "lgmi":1,
 "lgyanglao":1,
 "lgrcsc":1,
+"lgstatic":1,
 "lh36524":1,
 "li63":1,
 "liang360":1,
@@ -5919,6 +5960,7 @@ var white_domains = {
 "mangocity":1,
 "mangmin":1,
 "manew":1,
+"manmanbuy":1,
 "manmankan":1,
 "manyou":1,
 "manzuo":1,
@@ -5935,6 +5977,7 @@ var white_domains = {
 "mapbar":1,
 "marry5":1,
 "marry52":1,
+"marstranslator":1,
 "marstv":1,
 "masamaso":1,
 "maslink":1,
@@ -5969,6 +6012,7 @@ var white_domains = {
 "meet99":1,
 "mei5w":1,
 "meidianwang":1,
+"meifei":1,
 "meigui3":1,
 "meihongfeng":1,
 "meijing":1,
@@ -6058,6 +6102,7 @@ var white_domains = {
 "mmfj":1,
 "mmimm":1,
 "mmjyw":1,
+"mmmono":1,
 "mmrcw":1,
 "mmsfw":1,
 "mmstw":1,
@@ -6073,6 +6118,8 @@ var white_domains = {
 "mofunenglish":1,
 "mogu":1,
 "mogujie":1,
+"moji":1,
+"mojichina":1,
 "moke8":1,
 "momo35":1,
 "monfr":1,
@@ -6153,6 +6200,7 @@ var white_domains = {
 "mytv365":1,
 "myubbs":1,
 "myyouse":1,
+"myzaker":1,
 "myzhengxing":1,
 "mzedu":1,
 "mzrcw":1,
@@ -6251,6 +6299,7 @@ var white_domains = {
 "niua":1,
 "niuchengwang":1,
 "niuche":1,
+"niudoctrans":1,
 "niutuku":1,
 "niuwan":1,
 "niuwz":1,
@@ -6375,6 +6424,7 @@ var white_domains = {
 "one101":1,
 "onekeyrom":1,
 "oneplus":1,
+"oneplusbbs":1,
 "onlylady":1,
 "oodii":1,
 "ooklaserver":1,
@@ -6389,6 +6439,7 @@ var white_domains = {
 "oray":1,
 "ordosggzyjy":1,
 "orgcc":1,
+"originoo":1,
 "orsoon":1,
 "ostudytour":1,
 "otcms":1,
@@ -6446,6 +6497,7 @@ var white_domains = {
 "pearvideo":1,
 "peixun360":1,
 "peixun5":1,
+"peiyinxiu":1,
 "peiyou":1,
 "pengchengrc":1,
 "pengfu":1,
@@ -6480,6 +6532,7 @@ var white_domains = {
 "piaodown":1,
 "piaoliang":1,
 "picc":1,
+"picpas":1,
 "pimei":1,
 "pincai":1,
 "pinfengws":1,
@@ -6537,6 +6590,7 @@ var white_domains = {
 "ppzuche":1,
 "prcedu":1,
 "prnasia":1,
+"proginn":1,
 "psahz":1,
 "psbc":1,
 "pscjy":1,
@@ -6765,6 +6819,7 @@ var white_domains = {
 "qstatic":1,
 "qsztc":1,
 "qtour":1,
+"qtransmall":1,
 "qu-zhou":1,
 "qu114":1,
 "qu247":1,
@@ -6870,6 +6925,7 @@ var white_domains = {
 "rongchuang":1,
 "rongchuang88":1,
 "ronggle":1,
+"ronghub":1,
 "rongjie360":1,
 "rongshidai":1,
 "rongshuxia":1,
@@ -7102,6 +7158,7 @@ var white_domains = {
 "shmds-edu":1,
 "shmet":1,
 "shmmw":1,
+"shobserver":1,
 "shoeshr":1,
 "shonsh":1,
 "shouduhr":1,
@@ -7131,8 +7188,10 @@ var white_domains = {
 "shuichan51":1,
 "shuigongye":1,
 "shuiguo":1,
+"shuihuoibm":1,
 "shuiniaoticket":1,
 "shuiw114":1,
+"shujike":1,
 "shunwang":1,
 "shuobao":1,
 "shuren100":1,
@@ -7252,6 +7311,7 @@ var white_domains = {
 "soku":1,
 "solarbe":1,
 "solepic":1,
+"somdom":1,
 "somecoding":1,
 "somenmian":1,
 "sonhoo":1,
@@ -7656,6 +7716,7 @@ var white_domains = {
 "tourunion":1,
 "tourzj":1,
 "toutiao":1,
+"toutiaobashi":1,
 "toutiaocdn":1,
 "touzhijia":1,
 "towords":1,
@@ -7673,6 +7734,7 @@ var white_domains = {
 "tqznedu":1,
 "trade2cn":1,
 "tranbbs":1,
+"transeke":1,
 "travelsky":1,
 "tremormedia":1,
 "trip8080":1,
@@ -7715,6 +7777,7 @@ var white_domains = {
 "tudinet":1,
 "tudou":1,
 "tudouui":1,
+"tuer123":1,
 "tugao":1,
 "tui18":1,
 "tuicool":1,
@@ -7837,6 +7900,7 @@ var white_domains = {
 "uuzhufu":1,
 "uuzu":1,
 "uwan":1,
+"uxengine":1,
 "uycar":1,
 "uycnr":1,
 "uydj":1,
@@ -7864,6 +7928,7 @@ var white_domains = {
 "vibmro":1,
 "videojj":1,
 "vicovico":1,
+"viewstock":1,
 "vikecn":1,
 "vip":1,
 "vip800":1,
@@ -8066,6 +8131,7 @@ var white_domains = {
 "wkepu":1,
 "wkimg":1,
 "wkzuche":1,
+"wlcbw":1,
 "wlgyy":1,
 "wlkst":1,
 "wlmq":1,
@@ -8238,6 +8304,7 @@ var white_domains = {
 "xianweizhang":1,
 "xianyuwang":1,
 "xiao84":1,
+"xiaodaka":1,
 "xiaohei":1,
 "xiaojiangguo123":1,
 "xiaohongshu":1,
@@ -8359,6 +8426,7 @@ var white_domains = {
 "xlys1904":1,
 "xlzx":1,
 "xm3502":1,
+"xmdeal":1,
 "xmfc":1,
 "xmfish":1,
 "xmhljsz":1,
@@ -8578,12 +8646,14 @@ var white_domains = {
 "yichemall":1,
 "yicheshi":1,
 "yidaba":1,
+"yidianzixun":1,
 "yieldmanager":1,
 "yifucj":1,
 "yiguo":1,
 "yiguoimg":1,
 "yihaodian":1,
 "yihaodianimg":1,
+"yiihuu":1,
 "yijiaqin":1,
 "yilewan":1,
 "yili":1,
@@ -8606,6 +8676,7 @@ var white_domains = {
 "yintai":1,
 "yinxiuwang":1,
 "yinyuetai":1,
+"yipiyema":1,
 "yiqifa":1,
 "yiqin":1,
 "yiqirong":1,
@@ -8869,6 +8940,7 @@ var white_domains = {
 "zbcars":1,
 "zbhouse":1,
 "zbird":1,
+"zbj":1,
 "zbjimg":1,
 "zblogcn":1,
 "zbmate.com":1,
@@ -9024,6 +9096,7 @@ var white_domains = {
 "zhipin":1,
 "zhisland":1,
 "zhitechan":1,
+"zhitongcaijing":1,
 "zhituad":1,
 "zhiweidata":1,
 "zhiweiwenshi":1,
@@ -9081,6 +9154,7 @@ var white_domains = {
 "zibosky":1,
 "zijiayoucn":1,
 "ziiai":1,
+"ziibm":1,
 "zikao1688":1,
 "zikao365":1,
 "ziling":1,
@@ -9139,6 +9213,7 @@ var white_domains = {
 "znds":1,
 "znhr":1,
 "znimg":1,
+"znj":1,
 "znxkw":1,
 "zocai":1,
 "zoioo":1,
@@ -9172,6 +9247,7 @@ var white_domains = {
 "zssou":1,
 "zst365":1,
 "zstx88":1,
+"zsxq":1,
 "zt5":1,
 "ztedu":1,
 "ztgame":1,
@@ -9302,6 +9378,7 @@ var white_domains = {
 "55":1,
 "900":1,
 "chaxun":1,
+"gaoqing":1,
 "iz":1,
 "qzone":1,
 "ulinix":1
@@ -9326,45 +9403,11 @@ var white_domains = {
 "wmpic":1,
 "yuksel":1
 },"mobi":{
+"haoapp":1,
 "i1515":1
 },"name":{
 "yongche":1
 },"net":{
-"ipip":1,
-"coding":1,
-"blogjava":1,
-"ascii2d":1,
-"mcbbs":1,
-"baofeng":1,
-"qy":1,
-"cnky":1,
-"uxengine":1,
-"clewm":1,
-"baizhan":1,
-"funshion":1,
-"cibntv":1,
-"xiaojianjian":1,
-"ffsky":1,
-"azurewebsites":1,
-"z4a":1,
-"zzytrj":1,
-"loli":1,
-"ousns":1,
-"maccms":1,
-"mkv99":1,
-"tongdun":1,
-"tjzhzw":1,
-"gtags":1,
-"yx-s":1,
-"4399api":1,
-"3304399":1,
-"zhanzhang":1,
-"88rpg":1,
-"jsdelivr":1,
-"sina":1,
-"wt-cn01":1,
-"mingsoft":1,
-"mooctest":1,
 "001sj":1,
 "00615":1,
 "020p":1,
@@ -9415,6 +9458,7 @@ var white_domains = {
 "2liang":1,
 "2mdn":1,
 "3001":1,
+"3304399":1,
 "33map":1,
 "360guakao":1,
 "360tz":1,
@@ -9431,6 +9475,7 @@ var white_domains = {
 "414500":1,
 "434300":1,
 "4399":1,
+"4399api":1,
 "461000":1,
 "471700":1,
 "51":1,
@@ -9478,6 +9523,7 @@ var white_domains = {
 "8671":1,
 "86to81":1,
 "88353588":1,
+"88rpg":1,
 "91tea":1,
 "94117":1,
 "962":1,
@@ -9501,15 +9547,19 @@ var white_domains = {
 "anyv":1,
 "artintern":1,
 "artron":1,
+"ascii2d":1,
 "asp163":1,
 "aupu":1,
 "awotuan":1,
 "ayrc":1,
+"azurewebsites":1,
 "b2b168":1,
 "baidulian":1,
 "bailinsi":1,
 "baixing":1,
+"baizhan":1,
 "baoan":1,
+"baofeng":1,
 "baoye":1,
 "bbscms":1,
 "bd365":1,
@@ -9522,6 +9572,7 @@ var white_domains = {
 "bjhytc":1,
 "bjmama":1,
 "biliapi":1,
+"blogjava":1,
 "blsy":1,
 "bmjob":1,
 "bokee":1,
@@ -9588,6 +9639,7 @@ var white_domains = {
 "chinawestnews":1,
 "chutou":1,
 "ciads":1,
+"cibntv":1,
 "cidu":1,
 "cifco":1,
 "cippe":1,
@@ -9595,6 +9647,7 @@ var white_domains = {
 "ciwong":1,
 "cixiedu":1,
 "cjdby":1,
+"clewm":1,
 "cn":1,
 "cn2car":1,
 "cnbaowen":1,
@@ -9613,6 +9666,7 @@ var white_domains = {
 "cnki":1,
 "cnkoi":1,
 "cnkssb":1,
+"cnky":1,
 "cnlinfo":1,
 "cnmf":1,
 "cnmsw":1,
@@ -9629,6 +9683,7 @@ var white_domains = {
 "cnyw":1,
 "cnzz":1,
 "codefans":1,
+"coding":1,
 "coovee":1,
 "copperhome":1,
 "corpease":1,
@@ -9710,6 +9765,7 @@ var white_domains = {
 "emushroom":1,
 "ershou":1,
 "esnai":1,
+"etogether":1,
 "fangfa":1,
 "fanjian":1,
 "fayo":1,
@@ -9717,6 +9773,7 @@ var white_domains = {
 "fecn":1,
 "feijiu":1,
 "fengj":1,
+"ffsky":1,
 "fivecarts":1,
 "fjlib":1,
 "fjsy":1,
@@ -9729,6 +9786,7 @@ var white_domains = {
 "frly":1,
 "fsjy":1,
 "ftutj":1,
+"funshion":1,
 "futurescn":1,
 "fx120":1,
 "fxxww":1,
@@ -9754,6 +9812,7 @@ var white_domains = {
 "gouhuasuan":1,
 "gqsoso":1,
 "grfy":1,
+"gtags":1,
 "gtcfla":1,
 "guqu":1,
 "gxbs":1,
@@ -9840,6 +9899,7 @@ var white_domains = {
 "importfood":1,
 "indexedu":1,
 "inhe":1,
+"ipip":1,
 "irs01":1,
 "ishang":1,
 "itcpn":1,
@@ -9880,6 +9940,7 @@ var white_domains = {
 "jnzxw":1,
 "job234":1,
 "jobinhe":1,
+"jsdelivr":1,
 "jsinfo":1,
 "jsr365":1,
 "jupai":1,
@@ -9924,6 +9985,7 @@ var white_domains = {
 "ljia":1,
 "lmjx":1,
 "lnny":1,
+"loli":1,
 "longhoo":1,
 "longjiang":1,
 "longmen":1,
@@ -9947,14 +10009,19 @@ var white_domains = {
 "lzsq":1,
 "lzzy":1,
 "machineryinfo":1,
+"maccms":1,
 "mafengwo":1,
 "makepolo":1,
 "map456":1,
 "masfy":1,
+"mcbbs":1,
 "meishij":1,
 "meituan":1,
+"mingsoft":1,
+"mkv99":1,
 "mm111":1,
 "mnrb":1,
+"mooctest":1,
 "mshw":1,
 "msxf":1,
 "mushroommarket":1,
@@ -10002,6 +10069,7 @@ var white_domains = {
 "onlinedown":1,
 "oschina":1,
 "ourseo":1,
+"ousns":1,
 "p5w":1,
 "pafj":1,
 "pageadmin":1,
@@ -10083,6 +10151,7 @@ var white_domains = {
 "shedu":1,
 "shengyijie":1,
 "sherc":1,
+"shouzuan":1,
 "shlll":1,
 "shopin":1,
 "shouyouzhijia":1,
@@ -10096,6 +10165,7 @@ var white_domains = {
 "silverlightchina":1,
 "sinahk":1,
 "single6":1,
+"sina":1,
 "sinoss":1,
 "sitall":1,
 "sjyzc":1,
@@ -10147,10 +10217,12 @@ var white_domains = {
 "tigercity":1,
 "tingclass":1,
 "tjwang":1,
+"tjzhzw":1,
 "tlfw":1,
 "tmcdn":1,
 "tobosu":1,
 "togogo":1,
+"tongdun":1,
 "tongxiehui":1,
 "tourjob":1,
 "tqedu":1,
@@ -10194,6 +10266,7 @@ var white_domains = {
 "worldmr":1,
 "wrsa":1,
 "wrzc":1,
+"wt-cn01":1,
 "wto168":1,
 "wuca":1,
 "wufun":1,
@@ -10215,6 +10288,7 @@ var white_domains = {
 "xhedu":1,
 "xiangyang":1,
 "xiaomayi":1,
+"xiaojianjian":1,
 "xichu":1,
 "xici":1,
 "xieso":1,
@@ -10260,11 +10334,13 @@ var white_domains = {
 "youxi5":1,
 "yoyone":1,
 "yx618":1,
+"yx-s":1,
 "yxjy":1,
 "yxol":1,
 "yyzs":1,
 "yzedu":1,
 "yzwb":1,
+"z4a":1,
 "zailine":1,
 "zajy":1,
 "zbedu":1,
@@ -10284,6 +10360,7 @@ var white_domains = {
 "zhjy":1,
 "zhmmw":1,
 "zhnews":1,
+"zhanzhang":1,
 "zhong-yao":1,
 "zhongjiao":1,
 "zhongsou":1,
@@ -10318,7 +10395,8 @@ var white_domains = {
 "zzist":1,
 "zzjs":1,
 "zzph":1,
-"zzrc":1
+"zzrc":1,
+"zzytrj":1
 },"org":{
 "0513":1,
 "1000plan":1,
@@ -10706,8 +10784,9 @@ var white_domains = {
 "xiumi":1
 },"ws":{
 "0798":1
-},"xn--fiqs8s":{
-"":1
+},"xin":{
+"cheng":1,
+
 }
 };
 
@@ -10731,6 +10810,7 @@ function check_ipv4(host) {
 		return true;
 	}
 }
+
 function convertAddress(ipchars) {
 	var bytes = ipchars.split('.');
 	var result = (bytes[0] << 24) |
@@ -10739,12 +10819,14 @@ function convertAddress(ipchars) {
 	(bytes[3]);
 	return result >>> 0;
 }
+
 function isInSubnetRange(ipRange, intIp) {
 	for ( var i = 0; i < 10; i += 2 ) {
 		if ( ipRange[i] <= intIp && intIp < ipRange[i+1] )
 			return true;
 	}
 }
+
 function getProxyFromDirectIP(strIp) {
 	var intIp = convertAddress(strIp);
 	if ( isInSubnetRange(subnetIpRangeList, intIp) ) {
@@ -10752,15 +10834,129 @@ function getProxyFromDirectIP(strIp) {
 	}
 	return ip_proxy;
 }
+
 function isInDomains(domain_dict, host) {
 	var suffix;
 	var pos1 = host.lastIndexOf('.');
 
 	suffix = host.substring(pos1 + 1);
-	if (suffix == "cn") {
+	if (suffix == "cn")  {
 		return true;
+	} else if (suffix == "ren") {
+		return true;
+	} else if (suffix == "xin") {
+		return true;
+	} else if (suffix == "unicom") {
+		return true;
+	} else if (suffix == "wang") {
+		return true;
+	} else if (suffix == "baidu") {
+		return true;
+	} else if (suffix == "citic") {
+		return true;
+	} else if (suffix == "xn--fiqs8s") {
+		return true;
+		// 中国
+	} else if (suffix == "xn--fiqz9s") {
+		return true;
+		// 中國
+	} else if (suffix == "xn--zfr164b") {
+		return true;
+		// 政务
+	} else if (suffix == "xn--55qx5d") {
+		return true;
+		// 公司
+	} else if (suffix == "xn--ses554g") {
+		return true;
+		// 网址
+	} else if (suffix == "xn--hxt814e") {
+		return true;
+		// 网店
+	} else if (suffix == "xn--czr694b") {
+		return true;
+		// 商标
+	} else if (suffix == "xn--1qqw23a") {
+		return true;
+		// 佛山
+	} else if (suffix == "xn--kput3i") {
+		return true;
+		// 手机
+	} else if (suffix == "xn--fiq228c5hs") {
+		return true;
+		// 中文网
+	} else if (suffix == "xn--6qq986b3xl") {
+		return true;
+		// 我爱你
+	} else if (suffix == "xn--vhquv") {
+		return true;
+		// 企业
+	} else if (suffix == "xn--unup4y") {
+		return true;
+		// 游戏
+	} else if (suffix == "xn--imr513n") {
+		return true;
+		// 餐厅
+	} else if (suffix == "xn--9et52u") {
+		return true;
+		// 时尚
+	} else if (suffix == "xn--5tzm5g") {
+		return true;
+		// 网站
+	} else if (suffix == "xn--q35ao6k") {
+		return true;
+		// 飞龙
+	} else if (suffix == "xn--55qw42g") {
+		return true;
+		// 公益
+	} else if (suffix == "xn--io0a7i") {
+		return true;
+		// 网络
+	} else if (suffix == "xn--czru2d") {
+		return true;
+		// 商城
+	} else if (suffix == "xn--fiq64b") {
+		return true;
+		// 中信
+	} else if (suffix == "xn--xhq521b") {
+		return true;
+		// 广东
+	} else if (suffix == "xn--vuq861b") {
+		return true;
+		// 信息
+	} else if (suffix == "xn--3ds443g") {
+		return true;
+		// 在线
+	} else if (suffix == "xn--3bst00m") {
+		return true;
+		// 集团
+	} else if (suffix == "xn--czrs0t") {
+		return true;
+		// 商店
+	} else if (suffix == "xn--fjq720a") {
+		return true;
+		// 娱乐
+	} else if (suffix == "xn--g2xx48c") {
+		return true;
+		// 购物
+	} else if (suffix == "xn--otu796d") {
+		return true;
+		// 招聘
+	} else if (suffix == "xn--6frz82g") {
+		return true;
+		// 移动
+	} else if (suffix == "xn--8y0a063a") {
+		return true;
+		// 联通
 	}
-
+	// This rule contains several TLD and gTLD domain switch lists which is managed by CNNIC or other domain registries from China and most of them(websites corresponding to domains) are operating in China.
+	// Review:
+	// 1. https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains#Country_code_top-level_domains
+	// .中国 and .中國 punycodes are from wikipedia.com: List of Internet top-level domains Internationalized country code top-level domains.
+	// 2. http://域名.信息/ (http://xn--eqrt2g.xn--vuq861b/)
+	// Other Chinese gTLDs and TLDs can be found in this website: Ministry of Industry and Information Technology domain name industry information management announcement.
+	// 3. https://www.ymw.cn/whois/punycode.html
+	// You can translate Chinese gTLDs and TLDs to standard punycode in this website. 
+	
 	var domains = domain_dict[suffix];
 	if ( domains === undefined ) {
 		return false;
@@ -10783,6 +10979,7 @@ function isInDomains(domain_dict, host) {
 		pos = host.lastIndexOf('.', pos - 1);
 	}
 }
+
 function FindProxyForURL(url, host) {
 	url=""+url;
 	host=""+host;
