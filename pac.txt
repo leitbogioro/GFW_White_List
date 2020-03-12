@@ -2490,6 +2490,7 @@ var white_domains = {
 "bjzs114":1,
 "bkill":1,
 "blctwed":1,
+"blackshark":1,
 "bleju":1,
 "blemall":1,
 "bliao":1,
