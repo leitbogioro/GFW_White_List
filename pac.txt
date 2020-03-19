@@ -36,7 +36,8 @@ var white_domains = {
 "manong":1,
 "maxiang":1,
 "quanben":1,
-"terminus":1,
+"ter
+nus":1,
 "toutiao":1,
 "xitu":1,
 "jianshu":1
@@ -6058,6 +6059,7 @@ var white_domains = {
 "mhdz":1,
 "mhongfeng":1,
 "mi":1,
+"mi-img":1,
 "mianbao":1,
 "miaomudi":1,
 "miaopai":1,
