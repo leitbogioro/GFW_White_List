@@ -36,8 +36,6 @@ var white_domains = {
 "manong":1,
 "maxiang":1,
 "quanben":1,
-"ter
-nus":1,
 "toutiao":1,
 "xitu":1,
 "jianshu":1
