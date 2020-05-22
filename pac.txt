@@ -10516,6 +10516,7 @@ var white_domains = {
 "gdql":1,
 "gedu":1,
 "geekbang":1,
+"geekzu":1,
 "gjgwy":1,
 "globalbook":1,
 "gming":1,
