@@ -4128,6 +4128,7 @@ var white_domains = {
 "gasshow":1,
 "gather-sc":1,
 "gcchina":1,
+"gcores":1,
 "gd-china":1,
 "gd-fishmarket":1,
 "gdcct":1,
