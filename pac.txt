@@ -2121,6 +2121,7 @@ var white_domains = {
 "aksxw":1,
 "alacun":1,
 "aliapp":1,
+"alibabacloud":1,
 "alibado":1,
 "alibole":1,
 "alicdn":1,
