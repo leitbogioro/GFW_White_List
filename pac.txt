@@ -6193,6 +6193,7 @@ var white_domains = {
 "mouldu":1,
 "moutaichina":1,
 "moxingwang":1,
+"moxingyun":1,
 "moyiza":1,
 "mozillaonline":1,
 "mplife":1,
