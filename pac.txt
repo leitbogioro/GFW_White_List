@@ -6501,6 +6501,7 @@ var white_domains = {
 "orgcc":1,
 "originoo":1,
 "orsoon":1,
+"osogoo":1,
 "ostudytour":1,
 "otcms":1,
 "oujiangrc":1,
