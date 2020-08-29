@@ -7100,6 +7100,7 @@ var white_domains = {
 "sdjob":1,
 "sdjtcx":1,
 "sdlib":1,
+"sdnlab":1,
 "sdnycxzy":1,
 "sdo":1,
 "sdoprofile":1,
