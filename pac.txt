@@ -5237,6 +5237,7 @@ var white_domains = {
 "jinfuzi":1,
 "jinfr":1,
 "jinfuzi":1,
+"jinganjk":1,
 "jingchurc":1,
 "jingdianwan":1,
 "jingjiawang":1,
