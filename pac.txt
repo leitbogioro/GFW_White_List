@@ -2165,6 +2165,7 @@ var white_domains = {
 "anquanbao":1,
 "anruan":1,
 "ansteelgroup":1,
+"antfortune":1,
 "antpedia":1,
 "anxiangren":1,
 "anxin":1,
