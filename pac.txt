@@ -2884,6 +2884,7 @@ var white_domains = {
 "chinafudaoban":1,
 "chinagiftsfair":1,
 "chinagoldgroup":1,
+"chinagreentown":1,
 "chinagzn":1,
 "chinahaoan":1,
 "chinahazelnut":1,
