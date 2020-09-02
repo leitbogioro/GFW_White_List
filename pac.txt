@@ -3426,6 +3426,7 @@ var white_domains = {
 "damuzzz":1,
 "dance365":1,
 "dance888":1,
+"dancihu":1,
 "dang3":1,
 "dangbei":1,
 "dangdang":1,
