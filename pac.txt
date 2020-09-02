@@ -8054,6 +8054,7 @@ var white_domains = {
 "vvvdj":1,
 "vx":1,
 "vxinyou":1,
+"vzan":1,
 "vzuu":1,
 "w7000":1,
 "w707":1,
