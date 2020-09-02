@@ -7265,6 +7265,7 @@ var white_domains = {
 "shsunedu":1,
 "shuaishou":1,
 "shuame":1,
+"shubiaob":1,
 "shucai001":1,
 "shufa":1,
 "shuguocn":1,
