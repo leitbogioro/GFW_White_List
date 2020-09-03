@@ -9260,6 +9260,7 @@ var white_domains = {
 "zhuniu":1,
 "zhuokearts":1,
 "zhuoku":1,
+"zhuoyou":1,
 "zhuqike":1,
 "zhuzao":1,
 "zhuzaohr":1,
