@@ -4290,6 +4290,7 @@ var white_domains = {
 "gsrcw":1,
 "gsstgs":1,
 "gstarcad":1,
+"gstonegames":1,
 "gsxpz":1,
 "gtgqw":1,
 "gtimg":1,
