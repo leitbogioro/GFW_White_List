@@ -7973,6 +7973,7 @@ var white_domains = {
 "uoko":1,
 "uooqoo":1,
 "uouojk":1,
+"uovz":1,
 "up360":1,
 "upaidui":1,
 "upaiyun":1,
