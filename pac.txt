@@ -2064,6 +2064,7 @@ var white_domains = {
 "aibang":1,
 "aibo123":1,
 "aicheren":1,
+"aichunjing":1,
 "aicai":1,
 "aichao521":1,
 "aicunfu":1,
