@@ -10847,7 +10847,8 @@ var white_domains = {
 "zyxuan":1,
 "zzbm":1
 },"pro":{
-"chuang":1
+"modb":1,
+"haichuang":1
 },"sg":{
 "iedu":1
 },"sh":{
