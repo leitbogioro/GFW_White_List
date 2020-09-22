@@ -2075,6 +2075,7 @@ var white_domains = {
 "aifangke":1,
 "aifcdn":1,
 "aifengjie":1,
+"aigei":1,
 "aigou":1,
 "aihami":1,
 "aihandu":1,
