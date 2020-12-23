@@ -5708,6 +5708,7 @@ var white_domains = {
 "lanshandichan":1,
 "lanyanwan":1,
 "lanzou":1,
+"lanzoui":1,
 "lanzous":1,
 "lanzoux":1,
 "laohu":1,
