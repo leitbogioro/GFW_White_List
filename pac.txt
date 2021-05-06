@@ -9484,6 +9484,7 @@ var white_domains = {
 "hkidc":1,
 "takungpao.com":1,
 "xsren":1,
+"tencent.com":1
 },"im":{
 "cli":1,
 "netease":1,
