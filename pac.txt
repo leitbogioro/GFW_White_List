@@ -2117,6 +2117,7 @@ var white_domains = {
 "alifabu":1,
 "alihuahua":1,
 "aliimg":1,
+"alikunlun":1,
 "aliloan":1,
 "alimama":1,
 "alipay":1,
@@ -9482,7 +9483,7 @@ var white_domains = {
 "ctrip.com":1,
 "hkidc":1,
 "takungpao.com":1,
-"xsren":1
+"xsren":1,
 },"im":{
 "cli":1,
 "netease":1,
@@ -10664,6 +10665,7 @@ var white_domains = {
 "gjgwy":1,
 "globalbook":1,
 "gming":1,
+"greencompute":1,
 "gsean":1,
 "guigu":1,
 "gwfk":1,
@@ -10782,6 +10784,7 @@ var white_domains = {
 "sxly":1,
 "szfw":1,
 "taiwandao":1,
+"taobao":1,
 "tielu":1,
 "trustutn":1,
 "ttedu":1,
