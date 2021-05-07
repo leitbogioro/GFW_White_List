@@ -31,6 +31,8 @@ var white_domains = {
 "sm":1
 },"cx":{
 "sinaimg":1
+},"club":{
+"wanzhi":1
 },"lu":{
 "tool":1
 },"io":{
@@ -1162,6 +1164,7 @@ var white_domains = {
 "30556":1,
 "308308":1,
 "30edu":1,
+"30sche":1,
 "310win":1,
 "311100":1,
 "312168":1,
@@ -1366,6 +1369,7 @@ var white_domains = {
 "488u":1,
 "49you":1,
 "4gfy":1,
+"4paradigm":1,
 "4yang":1,
 "500":1,
 "50018":1,
@@ -3683,6 +3687,7 @@ var white_domains = {
 "dtzhuanjia":1,
 "duapp":1,
 "duba":1,
+"dudiangushi":1,
 "duitang":1,
 "dukuai":1,
 "duliday":1,
@@ -4492,6 +4497,7 @@ var white_domains = {
 "haofung":1,
 "haofz":1,
 "haogongzhang":1,
+"haohua":1,
 "haojiudaili":1,
 "haoleyou":1,
 "haoliv":1,
@@ -4836,6 +4842,7 @@ var white_domains = {
 "huangru":1,
 "huangye88":1,
 "huangyesoso":1,
+"huaniaoy":1,
 "huanjinrong":1,
 "huanq":1,
 "huanqiu":1,
@@ -5336,6 +5343,7 @@ var white_domains = {
 "jinxiang114":1,
 "jinyuan2008":1,
 "jinritemai":1,
+"jiqizhixin":1,
 "jisujie":1,
 "jisutiyu":1,
 "jitimes":1,
@@ -8235,6 +8243,7 @@ var white_domains = {
 "warchina":1,
 "warcraftchina":1,
 "watchstor":1,
+"watcn":1,
 "waterchina":1,
 "watertu":1,
 "wbimg":1,
@@ -9352,6 +9361,7 @@ var white_domains = {
 "zhijinwang":1,
 "zhileng":1,
 "zhimantian":1,
+"zhimengo":1,
 "zhimg":1,
 "zhipin":1,
 "zhisheng":1,
