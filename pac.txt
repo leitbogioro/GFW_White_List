@@ -5605,6 +5605,7 @@ var white_domains = {
 "juesheng":1,
 "jufengshang":1,
 "juhaof":1,
+"juhedir":1,
 "juhuasuan":1,
 "jujiaonet":1,
 "jumei":1,
