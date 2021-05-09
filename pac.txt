@@ -3042,6 +3042,7 @@ var white_domains = {
 "chizhouren":1,
 "chiznews":1,
 "chnart":1,
+"chnfund":1,
 "chnpac":1,
 "chnsuv":1,
 "chnvc":1,
@@ -3383,6 +3384,7 @@ var white_domains = {
 "cscsf":1,
 "cscyw":1,
 "cseyzx":1,
+"csfounder":1,
 "csgc365":1,
 "csgm168":1,
 "csrcsc":1,
@@ -4451,6 +4453,7 @@ var white_domains = {
 "guolvol":1,
 "guoshi":1,
 "guoxue":1,
+"guronge":1,
 "gushiciju":1,
 "gushiw":1,
 "gusuwang":1,
@@ -5204,6 +5207,7 @@ var white_domains = {
 "ishangman":1,
 "ishowx":1,
 "ishumei":1,
+"isimu123":1,
 "isoucai":1,
 "it168":1,
 "it7t":1,
@@ -6908,6 +6912,7 @@ var white_domains = {
 "putclub":1,
 "puworld":1,
 "pvc123":1,
+"pwccn":1,
 "px020":1,
 "px0769":1,
 "px101":1,
@@ -9811,6 +9816,8 @@ var white_domains = {
 "cn":1
 },"jp":{
 "china-embassy.or":1
+},"kpmg":{
+"home":1
 },"kr":{
 "ctrip.co":1
 },"la":{
