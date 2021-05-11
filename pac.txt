@@ -876,6 +876,7 @@ var white_domains = {
 "120askimages":1,
 "12114job":1,
 "12114rc":1,
+"1212":1,
 "121314":1,
 "122park":1,
 "12306":1,
@@ -2115,6 +2116,7 @@ var white_domains = {
 "alifabu":1,
 "alihuahua":1,
 "aliimg":1,
+"alijkw":1,
 "alikunlun":1,
 "aliloan":1,
 "alimama":1,
@@ -2227,6 +2229,7 @@ var white_domains = {
 "aqjfsy":1,
 "aqjob":1,
 "aqniu":1,
+"aqxyun":1,
 "aqzpw":1,
 "aqzyzx":1,
 "archina":1,
@@ -2545,6 +2548,7 @@ var white_domains = {
 "bo-yi":1,
 "boai":1,
 "boairc":1,
+"boce":1,
 "bocifco":1,
 "boe":1,
 "bokecc":1,
@@ -3658,6 +3662,8 @@ var white_domains = {
 "dmcbd":1,
 "dmzj":1,
 "dn1234":1,
+"dns":1,
+"dnsdaquan":1,
 "dnwx":1,
 "dodo8":1,
 "doc88":1,
@@ -5193,6 +5199,7 @@ var white_domains = {
 "ip1840":1,
 "ipadown":1,
 "ipaiban":1,
+"ipcelou":1,
 "ipchina":1,
 "ipchaxun":1,
 "ipetfair":1,
@@ -9671,6 +9678,7 @@ var white_domains = {
 "zjzcj":1,
 "zk5u":1,
 "zk71":1,
+"zkeys":1,
 "zkxbx":1,
 "zkxww":1,
 "zlhome":1,
@@ -10636,6 +10644,7 @@ var white_domains = {
 "replays":1,
 "riridy":1,
 "rongchang":1,
+"rsb":1,
 "rtbidder":1,
 "ruyo":1,
 "sandai":1,
@@ -11230,6 +11239,8 @@ var white_domains = {
 },"pro":{
 "modb":1,
 "haichuang":1
+},"sb":{
+"ip":1
 },"sg":{
 "iedu":1
 },"sh":{
