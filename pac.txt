@@ -5224,6 +5224,7 @@ var white_domains = {
 "ipincai":1,
 "ipingshan":1,
 "ipinyou":1,
+"ipjisuanqi":1,
 "iqilu":1,
 "iqingren":1,
 "iqiyi":1,
