@@ -5873,6 +5873,7 @@ var white_domains = {
 "kuailexue":1,
 "kuailezu":1,
 "kuailiyu":1,
+"kuailvzaixian":1,
 "kuaishou":1,
 "kuaishouzt":1,
 "kuaitui365":1,
