@@ -5974,6 +5974,7 @@ var white_domains = {
 "lcfcw":1,
 "lchssy":1,
 "lcyx":1,
+"ld246":1,
 "ldrczpw":1,
 "ldsshj":1,
 "leatherhr":1,
