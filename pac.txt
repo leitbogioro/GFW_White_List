@@ -3,6 +3,7 @@ var nowall_proxy = "DIRECT;";
 var direct = "DIRECT;";
 var ip_proxy = "DIRECT;";
 
+
 var white_domains = {
 "asia":{
 "moecloud":1
