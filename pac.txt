@@ -11635,7 +11635,7 @@ function FindProxyForURL(url, host) {
 		return getProxyFromDirectIP(host);
 	}
 	if ( isInDomains(white_domains, host) === true ) {
-		return wall_proxy;
+		return nowall_proxy;
 	}
-	return nowall_proxy;
+	return wall_proxy;
 }
