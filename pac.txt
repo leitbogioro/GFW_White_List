@@ -4060,6 +4060,7 @@ var white_domains = {
 "fandian":1,
 "fanqianbb":1,
 "fang":1,
+"fangcloud":1,
 "fang33":1,
 "fang99":1,
 "fangbx":1,
@@ -5666,6 +5667,7 @@ var white_domains = {
 "junbaike":1,
 "junjiajob":1,
 "junshishu":1,
+"junshifuxin":1,
 "junzhe":1,
 "junzhuan":1,
 "junzimen":1,
@@ -7066,6 +7068,7 @@ var white_domains = {
 "qhnews":1,
 "qhongfeng":1,
 "qhres":1,
+"qhres2":1,
 "qhserve":1,
 "qhsfgl":1,
 "qhsrcw":1,
@@ -8221,6 +8224,7 @@ var white_domains = {
 "tudinet":1,
 "tudou":1,
 "tudouui":1,
+"tudouxy01":1,
 "tuer123":1,
 "tugao":1,
 "tui18":1,
@@ -9003,6 +9007,7 @@ var white_domains = {
 "xutour":1,
 "xuzhoujob":1,
 "xw365":1,
+"xwdsp":1,
 "xwen":1,
 "xwie":1,
 "xx007":1,
@@ -11630,7 +11635,7 @@ function FindProxyForURL(url, host) {
 		return getProxyFromDirectIP(host);
 	}
 	if ( isInDomains(white_domains, host) === true ) {
-		return nowall_proxy;
+		return wall_proxy;
 	}
-	return wall_proxy;
+	return nowall_proxy;
 }
